@@ -1,0 +1,15 @@
+{
+  "name": "unit-testing-with-jest",
+  "version": "1.0.0",
+  "description": "Create a file with utility functions, such as calculating the sum of two numbers and checking if a number is even.",
+  "main": "utils.js",
+  "scripts": {
+    "test": "jest"    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
